@@ -1,2 +1,2 @@
 # issa
-language learning app
+learning app
